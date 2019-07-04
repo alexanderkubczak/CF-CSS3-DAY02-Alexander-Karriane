@@ -10,4 +10,24 @@
 			text-align: center;
 		}
 
+		.table {
+display: table;
+margin: 0 auto;
+}
+
+ul#horizontal-list{
+min-width: 500px;
+list-style: none;
+padding-top: 20px
+}
+
+ul#horizontal-list li{
+display: inline
+}
+
+
+#navigation{
+text-align: center;
+}
+
 
