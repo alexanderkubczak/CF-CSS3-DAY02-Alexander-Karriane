@@ -3,10 +3,14 @@ body {
 }
 .container {
 	margin: auto;
-	width: 800px; 
+	width: 800px;
 	text-align: center;
 	box-shadow: 1px 0px 0px #000000;
-	padding: 50px;
+	padding: 50px 50px 50px 50px;
+}
+
+div {
+
 }
 
 p {
