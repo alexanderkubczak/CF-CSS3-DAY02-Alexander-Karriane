@@ -1,7 +1,8 @@
 body {
-	font-family: 'Happy-Monkey';
+	font-family: 'Barriecito';
 }
 .container {
+	margin: auto;
 	width: 800px; 
 	text-align: center;
 	box-shadow: 1px 0px 0px #000000;
